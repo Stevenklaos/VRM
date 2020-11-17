@@ -1,0 +1,12 @@
+
+.booking-table {
+    border:  1px solid #523939;
+    padding: 1em;
+    border-collapse: collapse;
+}
+
+.booking-table th,
+.booking-table td {
+    border:  1px solid #523939;
+    padding: .5em;
+}
